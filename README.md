@@ -1,2 +1,7 @@
 # personal-config
-config files
+
+PCごとに設定する必要あるやつをまとめておきたい
+
+## fonts
+
+## dotfiles
