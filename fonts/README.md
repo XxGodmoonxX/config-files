@@ -1,6 +1,6 @@
 # フォント
 
-[Ricky-Diminished バッククオートが重複して表示されてしまうのを直す（私の技術ブログです）](https://tech.motoki-watanabe.net/entry/2021/05/30/103556)
+[Ricky-Diminished バッククオートが重複して表示されてしまうのを直す](https://tech.motoki-watanabe.net/entry/2021/05/30/103556)（私の技術ブログです）
 
 ## RickyDiminished-Regular-fixed
 
