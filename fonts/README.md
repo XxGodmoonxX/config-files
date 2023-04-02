@@ -1,11 +1,13 @@
 # フォント
 
+[Ricky-Diminished バッククオートが重複して表示されてしまうのを直す（私の技術ブログです）](https://tech.motoki-watanabe.net/entry/2021/05/30/103556)
+
 ## RickyDiminished-Regular-fixed
 
 ### 使用目的
 
 https://rictyfonts.github.io/diminished のRegularを改変したものです。  
-RickyDiminishedをVSCodeでのフォントに指定しているのですが、<code>`</code>が正しく表示されないため、下記記事を参考に改変してあります。
+私はRickyDiminishedをVSCodeでのフォントに指定しているのですが、<code>`</code>が正しく表示されないため、下記記事を参考に改変してあります。Mac変えるたびにやるのめんどくさいので改変済みのものをGithubに置いてあります。
 
 [Rictyのバッククォートが被るのを修正しようとしたら少し嵌った話](https://zenn.dev/konboi/articles/6dcd22f4e77c175653ed)  
 [Rictyのバッククオートを修正する](https://qiita.com/uKLEina/items/ff0877871fc425952b92)
