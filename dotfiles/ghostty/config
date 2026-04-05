@@ -1,0 +1,11 @@
+# テーマ
+theme = Solarized Osaka Night
+
+# 背景透過
+background-opacity = 0.95
+
+# フォント
+font-size = 12
+; font-family = Ricty Diminished
+font-family = Hack Nerd Font
+font-feature = -dlig
