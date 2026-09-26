@@ -2,7 +2,7 @@
 theme = Solarized Osaka Night
 
 # 背景透過
-background-opacity = 0.95
+background-opacity = 0.99
 
 # フォント
 font-size = 12
